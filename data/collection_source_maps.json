@@ -1,0 +1,5374 @@
+[{
+  "_id": {
+    "$oid": "60a6b80c1018dfb5e6bd96e7"
+  },
+  "source_name": "Scoop Woop",
+  "source_home_link": "https://www.scoopwhoop.com",
+  "source_id": "WSTvVDLbD-5nbmqOxtkX3A_scoop_woop",
+  "formatter": "html_collection_format",
+  "assumed_tags": "humor",
+  "links": [
+    {
+      "link": "https://www.scoopwhoop.com/category/humor/",
+      "assumed_tags": "humor",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/entertainment/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/travel/",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/animals/",
+      "assumed_tags": "biology",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/sports/",
+      "assumed_tags": "sports__events",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/relationships/",
+      "assumed_tags": "relationship",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/tech/",
+      "assumed_tags": "innovation__invention",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/food/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/men/",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/category/men/",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.scoopwhoop.com/read/",
+      "assumed_tags": "miscellaneous art__entertainment",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60ae0d68f6f1733fb3461b8b"
+  },
+  "source_name": "Blog Google",
+  "source_home_link": "https://blog.google",
+  "source_id": "CpmrwPAogLtxrSwvsgUrpw_blog.google",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "android ",
+  "links": [
+    {
+      "link": "https://blog.google/products/android/rss",
+      "assumed_tags": "android ",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "google",
+    "technology"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US",
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60b070bedec0af409cbece61"
+  },
+  "source_name": "Android Authority",
+  "source_home_link": "https://www.androidauthority.com",
+  "source_id": "I7KrqxeRmV69lxCUi1ztBQ_android_authority",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "android technology__computing.consumer_electronics.games__console technology__computing.hardware.computer",
+  "links": [
+    {
+      "link": "https://www.androidauthority.com/feed/",
+      "assumed_tags": "android",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "android",
+    "computing",
+    "technology"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60b08ab0f2207ab29ecc5818"
+  },
+  "source_name": "Android Central",
+  "source_home_link": "https://www.androidcentral.com",
+  "source_id": "8MzP6yWJeMBwk0dz2Uh0Vw_android_central",
+  "formatter": "html_collection_format",
+  "assumed_tags": "latpop__desktop__servers__peripherals ecommerce__social_network__internet windows__mac_os__os consumer_electronics video_games__games",
+  "links": [
+    {
+      "link": "https://www.androidcentral.com/",
+      "assumed_tags": "latpop__desktop__servers__peripherals ecommerce__social_network__internet windows__mac_os__os consumer_electronics video_games__games",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60b09db5f2207ab29ecc581a"
+  },
+  "source_name": "Iso 500px",
+  "source_home_link": "https://iso.500px.com",
+  "source_id": "jCdPRiPUH4HsMlq6s1GL5A_iso_500px",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "consumer_electronics photography__cinematography",
+  "links": [
+    {
+      "link": "https://iso.500px.com/feed/",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "photography"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60b240028b25e16adb12f78a"
+  },
+  "source_name": "Big Picture",
+  "source_home_link": "https://www3.bostonglobe.com",
+  "source_id": "US1jqRhBZZWlhDx4GsL9WQ_big_picture",
+  "formatter": "html_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival photography__cinematography welfare",
+  "links": [
+    {
+      "link": "https://www3.bostonglobe.com/news/bigpicture",
+      "assumed_tags": "life__lifestyle__culture__festival photography__cinematography welfare",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "photography"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60b29b8a8cdf660a37fdad61"
+  },
+  "source_name": "500px",
+  "source_home_link": "https://500px.com",
+  "source_id": "RHdRoADt2A_f-qm5D68fPA_500px",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "art__craft life__lifestyle__culture__festival photography__cinematography",
+  "links": [
+    {
+      "link": "https://500px.com/editors.rss",
+      "assumed_tags": "art__craft life__lifestyle__culture__festival photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": true
+    }
+  ],
+  "compulsory_tags": [
+    "photography",
+    "social_media",
+    "life",
+    "model",
+    "fashion"
+  ],
+  "is_collection": false,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60b3a05cee74f6949f0cd0d4"
+  },
+  "source_name": "Peta Pixel",
+  "source_home_link": "https://petapixel.com",
+  "source_id": "h-EJia0rmfbaFRGVyaIp_Q_peta pixel",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival photography__cinematography consumer_electronics",
+  "links": [
+    {
+      "link": "https://petapixel.com/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival photography__cinematography consumer_electronics",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "photography",
+    "life"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60b7cc98b52e1af876c11ef1"
+  },
+  "source_name": "Innfinity",
+  "source_home_link": "https://www.innfinity.in",
+  "source_id": "Yg4og9nS8z3gO7f6EsDMTA_innfinity",
+  "formatter": "html_collection_format",
+  "assumed_tags": " films__tv__series celebrity__gossip",
+  "links": [
+    {
+      "link": "https://www.innfinity.in/category/entertainment/",
+      "assumed_tags": "art__entertainment",
+      "compulsory_tags": null,
+      "formatter": null,
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/fashion/",
+      "assumed_tags": "fashion",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/lifestyle/",
+      "assumed_tags": "fashion",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/food/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/travel/",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/relationship/",
+      "assumed_tags": "relationship",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/tech/",
+      "assumed_tags": "technology__computing",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.innfinity.in/category/photography/",
+      "assumed_tags": "photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60b8e4c18280ebb7573607da"
+  },
+  "source_name": "Film Fare",
+  "source_home_link": "https://www.filmfare.com",
+  "source_id": "6AK1ceetYOwGZoYui5TaVw_film fare",
+  "formatter": "html_collection_format",
+  "assumed_tags": " films__tv__series celebrity__gossip",
+  "links": [
+    {
+      "link": "https://www.filmfare.com/news/bollywood",
+      "assumed_tags": " films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.filmfare.com/reviews",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.filmfare.com/interviews",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.filmfare.com/videos",
+      "assumed_tags": " films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "video",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "entertainment",
+    "celebs"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60b914618280ebb7573607de"
+  },
+  "source_name": "Pink Villa",
+  "source_home_link": "https://www.pinkvilla.com",
+  "source_id": "0iow0sVytXai6cg3K_0oeA_pink villa",
+  "formatter": "html_collection_format",
+  "assumed_tags": " films__tv__series celebrity__gossip",
+  "links": [
+    {
+      "link": "https://www.pinkvilla.com/entertainment/movie-review",
+      "assumed_tags": " films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.pinkvilla.com/fashion/best-dressed",
+      "assumed_tags": "fashion womens_fashion celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.pinkvilla.com/lifestyle/relationships",
+      "assumed_tags": "relationship",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.pinkvilla.com/lifestyle/food-travel",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.pinkvilla.com/lifestyle/people",
+      "assumed_tags": "life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.pinkvilla.com/category/entertainment/news/feed",
+      "assumed_tags": " celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60ba05578280ebb7573607df"
+  },
+  "source_name": "Listverse",
+  "source_home_link": "https://listverse.com",
+  "source_id": "lkaq8JrvwHf2yTcEd0xeNA_listverse",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "games misc/facts",
+  "links": [
+    {
+      "link": "https://listverse.com/entertainment/gaming/feed/",
+      "assumed_tags": "games",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/science-nature/space/feed/",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/science-nature/animals/feed/",
+      "assumed_tags": "biology",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/science-nature/our-world/feed/",
+      "assumed_tags": "environment__disaster__pollution__waste",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/science-nature/technology/feed/",
+      "assumed_tags": "technology__computing",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/science-nature/feed/",
+      "assumed_tags": "technology__computing science",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/bizarre/creepy/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/bizarre/mysteries/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/bizarre/weird-stuff/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/leisure-travel/health/feed/",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/leisure-travel/sport/feed/",
+      "assumed_tags": "sports__events",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/leisure-travel/travel/feed/",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/fact-fiction/facts/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://listverse.com/fact-fiction/history-fact-fiction/feed/",
+      "assumed_tags": "history__philosophy weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "facts"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ba42535712624135b23cad"
+  },
+  "source_name": "Luxury Lifestyle Mag",
+  "source_home_link": "https://www.luxurylifestylemag.co.uk",
+  "source_id": "wkfG9nK7n7HdZ4ALSghb_Q_luxury lifestyle mag",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "cars__bike__electric_vehicles",
+  "links": [
+    {
+      "link": "https://www.luxurylifestylemag.co.uk/tag/luxury-cars/feed/",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "cars",
+    "luxury_cars"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ba5dad5712624135b23caf"
+  },
+  "source_name": "YouTube",
+  "source_id": "youtube",
+  "source_home_link": "https://www.youtube.com/",
+  "is_third_party": true,
+  "is_collection": false,
+  "is_rss": false,
+  "links": [
+    {
+      "link": "UCKSVUHI9rbbkXhvAXK-2uxA",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars",
+        "luxury_cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC21Kozr_K0yDM-VjoihG9Aw",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars",
+        "luxury_cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCj_ARBxhCoF5JxUItcEUs7Q",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCUpC8yomtIEfrTXLjk-wAmw",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars",
+        "luxury_cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCIRgR4iANHI2taJdz8hjwLw",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars",
+        "luxury_cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCM1b28KhIZfF1-gYFkCiTAQ",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars",
+        "luxury_cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCwn0jaGbgMkYioOWBzMog1Q",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [
+        "cars",
+        "luxury_cars"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCyoSWGYKkusssZWzRrsX4RA",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": [
+        "space",
+        "astronomy"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCrMePiHCWG4Vwqv3t7W9EFg",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": [
+        "science/physics/space__astronomy"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": [
+        "science/physics/space__astronomy"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCEszlI8-W79IsU8LSAiRbDg",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": [
+        "science/physics/space__astronomy"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCdgpfQ5snGKcP-eqoVXI0pw",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": [
+        "science/physics/space__astronomy"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCj0V0aG4LcdHmdPJ7aTtSCQ",
+      "assumed_tags": "heatlh__fitness food__cooking",
+      "compulsory_tags": [
+        "cooking"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCc1eW4k9ultmXa5anz7ZKZA",
+      "assumed_tags": "heatlh__fitness food__cooking",
+      "compulsory_tags": [
+        "health__fitness",
+        "food__drink/cooking"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCpYCDpLxS2hUEmxeYgtc1wA",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": [
+        "paranormal"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC-FbE4thIVKkcQe1aWrUTvw",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": [
+        "hobbies__interests/paranormal",
+        "misc/anomaly",
+        "misc/weird",
+        "misc/mystery"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCja26BEv6YUHC2QLShBdt8w",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": [
+        "hobbies__interests/paranormal",
+        "misc/anomaly",
+        "misc/weird",
+        "misc/mystery"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC7T8roVtC_3afWKTOGtLlBA",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": [
+        "hobbies__interests/arts__crafts/photography"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCxCFQfO05RinX6x_r5VVuiA",
+      "assumed_tags": "consumer_electronics photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": [
+        "technology__computing/software/graphics__music__animations",
+        "hobbies__interests/arts__crafts/photography"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCvs_Clo5c1u2hXwv0zEG6rw",
+      "assumed_tags": "celebrity_fashion__contest photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": [
+        "hobbies__interests/arts__crafts/photography",
+        "technology__computing/software/graphics__music__animations",
+        "style__fashion/celebs"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC3DkFux8Iv-aYnTRWzwaiBA",
+      "assumed_tags": "consumer_electronics photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCknMR7NOY6ZKcVbyzOxQPhw",
+      "assumed_tags": "consumer_electronics photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCsXoO3GA7-9N5p6aEcSf9gA",
+      "assumed_tags": "consumer_electronics photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCXjB5CYw3yCS8soFozLhPFQ",
+      "assumed_tags": "history__philosophy",
+      "compulsory_tags": [
+        "science/social_science/history"
+      ],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC9MAhZQQd9egwWCxrwSIsJQ",
+      "assumed_tags": "history__philosophy society",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCiCPv2sV_D3FqMRzzUFA2Fg",
+      "assumed_tags": "people__racism",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCC9JHVPm-4P5QDp9vk8EH-A",
+      "assumed_tags": "history__philosophy miscellaneous",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC88lvyJe7aHZmcvzvubDFRg",
+      "assumed_tags": "history__philosophy people__racism war_industry__technology__unrest",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC510QYlOlKNyhy_zdQxnGYw",
+      "assumed_tags": "history__philosophy people__racism war_industry__technology__unrest",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCuCuEKq1xuRA0dFQj1qg9-Q",
+      "assumed_tags": "history__philosophy people__racism war_industry__technology__unrest",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCX4zdlh2wQXjk2KA_UAjO3w",
+      "assumed_tags": "history__philosophy life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCn8zNIfYAQNdrFRrr8oibKw",
+      "assumed_tags": "law__govt__politics crime__cyber_crime miscellaneous",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCYJyrEdlwxUu7UwtFS6jA_Q",
+      "assumed_tags": "miscellaneous science",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCzWQYUVCpZqtN93H8RR44Qw",
+      "assumed_tags": "society miscellaneous science",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCftwRNsjfRo08xYE31tkiyw",
+      "assumed_tags": "society miscellaneous science art__entertainment",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCphTF9wHwhCt-BzIq-s4V-g",
+      "assumed_tags": "miscellaneous science",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCYO_jab_esuFRV4b17AJtAw",
+      "assumed_tags": "mathematics weird__facts__miscellaneous",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCWzHqTAp15MOdXigK_Na7Dw",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCcPVzEbEIv1GUl_c4owKuhg",
+      "assumed_tags": "society travel__adventure food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCvK4bOhULCpmLabd2pDMtnA",
+      "assumed_tags": "society travel__adventure food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCGeGhS_akOxBWQcSmje6B-w",
+      "assumed_tags": "society travel__adventure food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCpbClyFMuJQJJH7skfiVeQg",
+      "assumed_tags": "society travel__adventure food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCchgIh8Tc4sTmBfnMQ5pDdg",
+      "assumed_tags": "society travel__adventure history__philosophy food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCvuukuDwsTkpII4OjeDZ8FQ",
+      "assumed_tags": "society travel__adventure history__philosophy food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCXWMnd0AHkf-yE4747bj8hg",
+      "assumed_tags": "weird__facts__miscellaneous weird__facts__miscellaneous",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCgbzclo4Mfy_D68w_Bm_xHg",
+      "assumed_tags": " films__tv__series",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UC2Eegs0TkCr-DWcztKO5AIw",
+      "assumed_tags": " films__tv__series celebrity__gossip",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UChXRi2xTPZ8J5lznBNuMCOw",
+      "assumed_tags": "exercise__mental_health healthy_eating heatlh__fitness",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCPxMZIFE856tbTfdkdjzTSQ",
+      "assumed_tags": "exercise__mental_health healthy_eating heatlh__fitness",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCYC6Vcczj8v-Y5OgpEJTFBw",
+      "assumed_tags": "exercise__mental_health healthy_eating heatlh__fitness",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCjeDdgwverf8ZgMAaqY8F3Q",
+      "assumed_tags": "exercise__mental_health food__cooking healthy_eating heatlh__fitness",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCKRpf_HZfpLwxuIgyeYnsVw",
+      "assumed_tags": "heatlh__fitness healthy_eating food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCfgZUI8Q3TENuArpf_8Q9TA",
+      "assumed_tags": "heatlh__fitness healthy_eating food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UUCgMJGv4cQl8-q71AyFeFmtg",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCkTtNUjvPcSc50HyO7sBtxg",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCCZYoHdqAOXf8WK9oawMCPg",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCmoX4QULJ9MB00xW4coMiOw",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCPPIsrNlEkaFQBk-4uNkOaw",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCfwHP1M0AFSPqTdjzXhV0Zg",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCChqsCRFePrP2X897iQkyAA",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCEHCDn_BBnk3uTK1M64ptyw",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCthIcpK06l9bhi9ISgreocw",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCM4vLyVm4MPhS3o5o729Udg",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCE_125yu_QxOM0PXPOKj93w",
+      "assumed_tags": "healthy_eating food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCg4_1iEPv3IlgTvJh2IZAjQ",
+      "assumed_tags": "healthy_eating food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCjHEskdNIvQlCtKAJRH_QWQ",
+      "assumed_tags": "travel__adventure healthy_eating food__cooking",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    },
+    {
+      "link": "UCkxP6nWL35Yq6QEjiwWBITw",
+      "assumed_tags": "celebirity_fashion__contest celebrity__gossips",
+      "compulsory_tags": [],
+      "formatter": null,
+      "content_type": "video",
+      "is_multiple": true
+    }
+  ],
+  "formatter": null,
+  "assumed_tags": "",
+  "compulsory_tags": [
+    "science/social_science/history"
+  ],
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60bcd1a1322225a089a5ab91"
+  },
+  "source_name": "Pinterest",
+  "source_home_link": "https://in.pinterest.com",
+  "source_id": "j2wVILgTZ6O5bXwmDWPMAQ_pinterest",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "cars__bike__electric_vehicles",
+  "links": [
+    {
+      "link": "https://in.pinterest.com/noorhazin/luxury-cars.rss",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/gmunglani/indian-fashion.",
+      "assumed_tags": "celebrity_fashion__contest womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/gmunglani/jewellery.rss",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/VardaiDesign/supercar.rss",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/grahammylett/supercars.rss",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/nonstopdiys/space-and-astronomy.rss",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/carajourdan/travel.rss",
+      "assumed_tags": "life__lifestyle__culture__festival travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/loveableeve/indian-food-.rss",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/whiskaffair/indian-food-recipes.rss",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://in.pinterest.com/shwetaindkitchn/indian-food.rss",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    }
+  ],
+  "compulsory_tags": [
+    "",
+    "luxury_cars",
+    "science.physics.space__astronomy"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60bcd828322225a089a5ab93"
+  },
+  "source_name": "The SuperCar Blog",
+  "source_home_link": "https://www.thesupercarblog.com",
+  "source_id": "zKEXrXjVkp48a4SNAWc9AQ_the supercar blog",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "cars__bike__electric_vehicles",
+  "links": [
+    {
+      "link": "https://www.thesupercarblog.com/feed/",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "cars"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60bce26a322225a089a5ab95"
+  },
+  "source_name": "Put That Cheese Burger Down",
+  "source_home_link": "https://putthatcheeseburgerdown.com",
+  "source_id": "0Dg48QyFv6huiHT-5NKZiA_put that cheese burger down",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "exercise__mental_health disease__disorders",
+  "links": [
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/mental-health/feed/",
+      "assumed_tags": "exercise__mental_health disease__disorders",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/holistic-healing/rss/",
+      "assumed_tags": "exercise__mental_health disease__disorders",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/eat-mindfully/feed/",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/recipes-2/rss/",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/movement/feed/",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/mental-health/healthy-living/rss/",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://putthatcheeseburgerdown.com/category/videos-i-love/feed/",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "health",
+    "food"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN",
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60bcf0c6322225a089a5ab97"
+  },
+  "source_name": "Style Fitness",
+  "source_home_link": "https://stylefitness.in",
+  "source_id": "mZHcnyk4rBO2B-YjPAU9Hw_style fitness",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "heatlh__fitness healthy_eating",
+  "links": [
+    {
+      "link": "https://stylefitness.in/feed",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "heatlh"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60bdab2b227af5d76e62618c"
+  },
+  "source_name": "Fitness Vs Weight Loss",
+  "source_home_link": "https://www.fitnessvsweightloss.com",
+  "source_id": "Z2y_793O4TSlqC80LcKAxg_fitness vs weight loss",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "heatlh__fitness healthy_eating",
+  "links": [
+    {
+      "link": "https://www.fitnessvsweightloss.com/feed/",
+      "assumed_tags": "heatlh__fitness healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "health"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60bdaf3e227af5d76e62618e"
+  },
+  "source_name": "Medium",
+  "source_home_link": "https://medium.com",
+  "source_id": "QWKTZzrDx14zZXdfHEK9bA_medium",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "exercise__mental_health",
+  "links": [
+    {
+      "link": "https://medium.com/feed/invisible-illness",
+      "assumed_tags": "exercise__mental_health",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/gethealthy/tagged/weight-loss",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/gethealthy/tagged/food",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/gethealthy/tagged/fitness",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/gethealthy/tagged/metabolism",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/change-your-mind/tagged/inspiration",
+      "assumed_tags": "exercise__mental_health life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/change-your-mind/tagged/happiness",
+      "assumed_tags": "exercise__mental_health life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/change-your-mind/tagged/spirituality",
+      "assumed_tags": "religion__spirituality",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/change-your-mind/tagged/health",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/survivors/tagged/humor",
+      "assumed_tags": " exercise__mental_health humor",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/survivors/tagged/child-sex-abuse",
+      "assumed_tags": "crime__cyber_crime",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/survivors/tagged/rape",
+      "assumed_tags": "crime__cyber_crime",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/survivors/feed/tagged/sexual-assault",
+      "assumed_tags": "crime__cyber_crime",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/topic/space",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/f-stop-magazine",
+      "assumed_tags": "photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/her-side-of-the-street",
+      "assumed_tags": "people__racism photography__cinematography travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/lumoid",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/photo-dojo",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/photoism",
+      "assumed_tags": "people__racism photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://witness.worldpressphoto.org/feed",
+      "assumed_tags": "people__racism photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/lessons-from-history",
+      "assumed_tags": "history__philosophy society",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/topic/food",
+      "assumed_tags": "healthy_eating food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/topic/relationships",
+      "assumed_tags": "relationship life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://medium.com/feed/tag/marriage",
+      "assumed_tags": "relationship life__lifestyle__culture__festival sex",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60bdb4eb227af5d76e626190"
+  },
+  "source_name": "Blog Heart Support",
+  "source_home_link": "https://blog.heartsupport.com",
+  "source_id": "0U21AZEXtlArPCbMNuam2A_medium",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival relationship",
+  "links": [
+    {
+      "link": "https://blog.heartsupport.com/feed/tagged/life-lessons",
+      "assumed_tags": "life__lifestyle__culture__festival relationship",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://blog.heartsupport.com/feed/tagged/relationships",
+      "assumed_tags": "life__lifestyle__culture__festival relationship",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://blog.heartsupport.com/feed/tagged/mental-health",
+      "assumed_tags": "exercise__mental_health",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://blog.heartsupport.com/feed/tagged/spirituality",
+      "assumed_tags": "religion__spirituality",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "life",
+    "religion"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60be3258227af5d76e626192"
+  },
+  "source_name": "Anomalien",
+  "source_home_link": "https://anomalien.com",
+  "source_id": "kQqafwWhpnWpt513_THEtA_anomalien",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "weird__facts__miscellaneous",
+  "links": [
+    {
+      "link": "https://anomalien.com/news/paranormal/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/news/ufo-aliens/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/civilizations-history/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/anomaly-oddity/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/civilizations-history/feed/",
+      "assumed_tags": "history__philosophy weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/ghost-hauntings/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/life-after-death/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/magic-spells/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/magic-spells/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/unexplained-phenomena/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/parapsychology/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/parapsychology/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/religion/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/cruelties-horror/rss/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://anomalien.com/articles/tests/rss/",
+      "assumed_tags": "miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "paranormal"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d49620466e850cf36fee15"
+  },
+  "source_name": "Anomalist",
+  "source_home_link": "https://www.anomalist.com",
+  "source_id": "YZMZg_0BGOVNxJCZ6jknrg_anomalist",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "weird__facts__miscellaneous",
+  "links": [
+    {
+      "link": "https://node2.feed43.com/anomalist.xml",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "anomaly",
+    "paranormal"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d49e61466e850cf36fee17"
+  },
+  "source_name": "Elle",
+  "source_home_link": "https://www.elle.com",
+  "source_id": "qdkffHGGZV6IPkTy5KHkqw_elle",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+  "links": [
+    {
+      "link": "https://www.elle.com/rss/fashion.xml/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d4a312466e850cf36fee19"
+  },
+  "source_name": "Akanksha Redhu",
+  "source_home_link": "https://akanksharedhu.com",
+  "source_id": "VAjbOD5W4dVDQOwX2Mio3w_akanksha redhu",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival womens_fashion food__cooking",
+  "links": [
+    {
+      "link": "https://akanksharedhu.com/category/fashionlifestyle/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "style__fashion",
+    "lifestyle",
+    "food"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    "\\"
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60d6c9cc54c676f2b5ce1f75"
+  },
+  "source_name": "Indian Wedding Saree",
+  "source_home_link": "https://blog.indianweddingsaree.com",
+  "source_id": "1brQfm8tEBCLPdKKOiO_pw_indian wedding saree",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "celebrity_fashion__contest life__lifestyle__culture__festival womens_fashion",
+  "links": [
+    {
+      "link": "https://blog.indianweddingsaree.com/feed",
+      "assumed_tags": "celebrity_fashion__contest life__lifestyle__culture__festival womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "style__fashion",
+    "society/social_institution/marriage"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60d6f739b50a59ac1e044cb4"
+  },
+  "source_name": "The Un Stitchd",
+  "source_home_link": "http://www.theunstitchd.com",
+  "source_id": "GBwdbVIvuaEE6KlvY6TN0Q_the un stitchd",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival mens_fashion",
+  "links": [
+    {
+      "link": "http://www.theunstitchd.com/category/fashion/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "http://www.theunstitchd.com/category/grooming/beard/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "style__fashion/mens"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60d6f915b50a59ac1e044cb6"
+  },
+  "source_name": "The Un Stitchd",
+  "source_home_link": "https://www.theunstitchd.com",
+  "source_id": "iO1A5TTQav7gW3Jc8p-OCQ_the un stitchd",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+  "links": [
+    {
+      "link": "https://www.theunstitchd.com/women/category/fashion/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/women/category/accessories/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/women/category/hairstyles/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/women/category/footwear/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/women/category/grooming/feed",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/women/category/beauty/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/category/footwear/feed",
+      "assumed_tags": "life__lifestyle__culture__festival fashion mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.theunstitchd.com/category/footwear/feed",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "style__fashion/accessories",
+    "style__fashion/footwear",
+    "automotive__vehicles/cars",
+    "style__fashion/womens",
+    "style__fashion/beauty"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60d6fcb4b50a59ac1e044cb8"
+  },
+  "source_name": "Circle Mag",
+  "source_home_link": "https://www.circlemag.in",
+  "source_id": "iuZddD5xtsFyOBBXmdNlWw_circle mag",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "womens_fashion",
+  "links": [
+    {
+      "link": "https://www.circlemag.in/category/women/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.circlemag.in/category/beauty_cat/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.circlemag.in/category/footwear-bags/feed/",
+      "assumed_tags": "fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "style__fitness.beauty",
+    "style__fashion/womens"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d73089b50a59ac1e044cba"
+  },
+  "source_name": "The Fact Site",
+  "source_home_link": "https://www.thefactsite.com",
+  "source_id": "8JWvpOHfUUlttxBTb77ygg_the fact site",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "space_technology__astronomy",
+  "links": [
+    {
+      "link": "https://www.thefactsite.com/space/feed/",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefactsite.com/health-body/feed/",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefactsite.com/fashion-beauty/feed/",
+      "assumed_tags": "fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefactsite.com/travel-tourism/feed/",
+      "assumed_tags": "travel__adventure weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefactsite.com/physics/feed/",
+      "assumed_tags": "physics",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefactsite.com/history/feed",
+      "assumed_tags": "history__philosophy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60d733e5b50a59ac1e044cbc"
+  },
+  "source_name": "The Phoblographer",
+  "source_home_link": "https://www.thephoblographer.com",
+  "source_id": "wgKtxlWLlblK0fH5TylRFQ_the phoblographer",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "consumer_electronics photography__cinematography",
+  "links": [
+    {
+      "link": "https://www.thephoblographer.com/feed/",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d7361cb50a59ac1e044cbe"
+  },
+  "source_name": "DIY Photographer",
+  "source_home_link": "https://www.diyphotography.net",
+  "source_id": "8HpbnMfTAeNKi5aB648eCg_diy photographer",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "consumer_electronics photography__cinematography",
+  "links": [
+    {
+      "link": "https://feeds.feedburner.com/Diyphotographynet",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.diyphotography.net/category/tutorials/feed/",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.diyphotography.net/category/reviews/feed/",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d9d2fb341bcd130719281f"
+  },
+  "source_name": "Expert Photography",
+  "source_home_link": "https://expertphotography.com",
+  "source_id": "0FrDbaJwyYn5CKp8roaRdg_expert photography",
+  "formatter": "html_collection_format",
+  "assumed_tags": "consumer_electronics photography__cinematography",
+  "links": [
+    {
+      "link": "https://expertphotography.com/category/creative-projects-challenges/",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://expertphotography.com/category/lightroom-processing/",
+      "assumed_tags": "consumer_electronics photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "hobbies__interests.arts__crafts.photography"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d9ddf6341bcd1307192821"
+  },
+  "source_name": "Pedron The World",
+  "source_home_link": "https://www.pedrontheworld.com",
+  "source_id": "clMhUOCkEGSphwkDIFc1oA_pedron the world",
+  "formatter": "html_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival photography__cinematography",
+  "links": [
+    {
+      "link": "https://www.pedrontheworld.com/lifestyle",
+      "assumed_tags": "life__lifestyle__culture__festival photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://www.pedrontheworld.com/environmental-1",
+      "assumed_tags": "photography__cinematography environment__nature__disaster__pollution__waste",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://www.pedrontheworld.com/cultures",
+      "assumed_tags": "life__lifestyle__culture__festival photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    },
+    {
+      "link": "https://www.pedrontheworld.com/agriindustry",
+      "assumed_tags": "agriculture photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "image",
+      "is_multiple": true
+    }
+  ],
+  "compulsory_tags": [
+    "",
+    "business__industrial.agriculture__forestry",
+    "science.biology.botany",
+    "scoiety.culture",
+    "society.culture"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60d9efaf341bcd1307192823"
+  },
+  "source_name": "Exposure",
+  "source_home_link": "https://photography.exposure.co",
+  "source_id": "ks5BFlhQ05GFUTiGZkx5AA_exposure",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "society photography__cinematography",
+  "links": [
+    {
+      "link": "https://photography.exposure.co/feed.rss",
+      "assumed_tags": "society photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://travel.exposure.co/feed.rss",
+      "assumed_tags": "photography__cinematography travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "travel"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60db12842c033a07e86b028d"
+  },
+  "source_name": "Feature Shoot",
+  "source_home_link": "https://www.featureshoot.com",
+  "source_id": "NLjW4J3m13blvWBNAzzDyw_feature shoot",
+  "formatter": "html_collection_format",
+  "assumed_tags": "photography__cinematography environment__nature__disaster__pollution__waste",
+  "links": [
+    {
+      "link": "https://www.featureshoot.com/category/nature/",
+      "assumed_tags": "photography__cinematography environment__nature__disaster__pollution__waste",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.featureshoot.com/category/travel/",
+      "assumed_tags": "photography__cinematography travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.featureshoot.com/category/street/",
+      "assumed_tags": "society photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.featureshoot.com/category/landscape/",
+      "assumed_tags": "photography__cinematography environment__nature__disaster__pollution__waste biology",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "travel",
+    "society",
+    "science.environment__nature"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60db1a392c033a07e86b028f"
+  },
+  "source_name": "Joe Cnally",
+  "source_home_link": "https://blog.joemcnally.com",
+  "source_id": "3nwET4yL_xfVnQiRb0_u3g_joe cnally",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "photography__cinematography",
+  "links": [
+    {
+      "link": "https://blog.joemcnally.com/feed/",
+      "assumed_tags": "photography__cinematography",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IS"
+  ]
+},{
+  "_id": {
+    "$oid": "60db1f1d2c033a07e86b0291"
+  },
+  "source_name": "Richar Bernabe",
+  "source_home_link": "https://richardbernabe.com",
+  "source_id": "02QNi48g4tUI0w86yLyKLQ_richar bernabe",
+  "formatter": "html_collection_format",
+  "assumed_tags": "photography__cinematography backend__framework__game__software__apps",
+  "links": [
+    {
+      "link": "https://richardbernabe.com/blog/",
+      "assumed_tags": "photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "hobbies__interests.arts__crafts.photography"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IS"
+  ]
+},{
+  "_id": {
+    "$oid": "60db221d2c033a07e86b0293"
+  },
+  "source_name": "David DuChemin",
+  "source_home_link": "https://davidduchemin.com",
+  "source_id": "RRaASHjy5NqV4DsQoQPoAQ_david duchemin",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "photography__cinematography backend__framework__game__software__apps",
+  "links": [
+    {
+      "link": "https://davidduchemin.com/feed/",
+      "assumed_tags": "photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "hobbies__interests.arts__crafts.photography"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IS"
+  ]
+},{
+  "_id": {
+    "$oid": "60db23842c033a07e86b0295"
+  },
+  "source_name": "Deposit Photos",
+  "source_home_link": "https://blog.depositphotos.com",
+  "source_id": "TzYZnwjGM-tSnQUxaPOjww_deposit photos",
+  "formatter": "html_collection_format",
+  "assumed_tags": "photography__cinematography backend__framework__game__software__apps",
+  "links": [
+    {
+      "link": "https://blog.depositphotos.com/category/photography",
+      "assumed_tags": "photography__cinematography backend__framework__game__software__apps",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "hobbies__interests.arts__crafts.photography"
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IS"
+  ]
+},{
+  "_id": {
+    "$oid": "60db367c2c033a07e86b0297"
+  },
+  "source_name": "Daily Art Magazine",
+  "source_home_link": "https://www.dailyartmagazine.com",
+  "source_id": "A6dNJFlgLOrPi_7xe2x9_A_daily art magazine",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "art__craft history__philosophy",
+  "links": [
+    {
+      "link": "https://www.dailyartmagazine.com/category/periods/19th-century/feed/",
+      "assumed_tags": "art__craft history__philosophy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.dailyartmagazine.com/category/periods/20th-century/feed",
+      "assumed_tags": "art__craft history__philosophy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.dailyartmagazine.com/category/periods/ancient/feed",
+      "assumed_tags": "art__craft history__philosophy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.dailyartmagazine.com/category/wtfarthistory/just-weird/feed",
+      "assumed_tags": "art__craft miscellaneous history__philosophy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    "education.art_history"
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60db397c2c033a07e86b0299"
+  },
+  "source_name": "Daily Art Magazine",
+  "source_home_link": "https://www.damninteresting.com",
+  "source_id": "B5lHNhI22jwnJ5BJM0mA9Q_daily art magazine",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "history__philosophy",
+  "links": [
+    {
+      "link": "https://www.damninteresting.com/category/greatest-hits/feed",
+      "assumed_tags": "history__philosophy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60dc929d5b74c43c13b3bed1"
+  },
+  "source_name": "Ars Technica",
+  "source_home_link": "https://arstechnica.com",
+  "source_id": "gotaxfwSrXTrauC4UHaadw_ars technica",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "armed_forces__defence startups innovation__invention",
+  "links": [
+    {
+      "link": "https://arstechnica.com/science/feed/",
+      "assumed_tags": "armed_forces__defence startups innovation__invention",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/feed/",
+      "assumed_tags": "technology__computing",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://arstechnica.com/cars/feed/",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://arstechnica.com/gaming/feed/",
+      "assumed_tags": "video_games__games gaming_system",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US'"
+  ]
+},{
+  "_id": {
+    "$oid": "60dc96d35b74c43c13b3bed3"
+  },
+  "source_name": "Quanta Magazine",
+  "source_home_link": "https://www.quantamagazine.org",
+  "source_id": "zli83QQ3fchPqkWwIeCD6w_quanta magazine",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "science",
+  "links": [
+    {
+      "link": "https://api.quantamagazine.org/feed/",
+      "assumed_tags": "science",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": false,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60dc9a265b74c43c13b3bed7"
+  },
+  "source_name": "Space",
+  "source_home_link": "https://www.space.com",
+  "source_id": "g7X_3iEEDVJ9Os7vMNUlIw_space",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "physics armed_forces__defence weird__facts__miscellaneous space_technology__astronomy",
+  "links": [
+    {
+      "link": "https://www.space.com/feeds/all",
+      "assumed_tags": "physics armed_forces__defence weird__facts__miscellaneous space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60dcaada5b74c43c13b3bedb"
+  },
+  "source_name": "How Stuff Works",
+  "source_home_link": "https://howstuffworks.com",
+  "source_id": "a4GK_xfgskfChlV_v4bmwg_how stuff works",
+  "formatter": "html_collection_format",
+  "assumed_tags": "war_industry__technology__unrest science innovation__invention",
+  "links": [
+    {
+      "link": "https://science.howstuffworks.com/",
+      "assumed_tags": "war_industry__technology__unrest science innovation__invention",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://home.howstuffworks.com/",
+      "assumed_tags": "miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://auto.howstuffworks.com/",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://electronics.howstuffworks.com/tech",
+      "assumed_tags": "technology__computing",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://people.howstuffworks.com/culture",
+      "assumed_tags": "history__philosophy life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://money.howstuffworks.com/",
+      "assumed_tags": "finance career__job business__industry",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://lifestyle.howstuffworks.com/",
+      "assumed_tags": "event_planning relationship art__craft fashion food__cooking people__racism",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://adventure.howstuffworks.com/",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://animals.howstuffworks.com/",
+      "assumed_tags": "pets environment__nature__disaster__pollution__waste",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://health.howstuffworks.com/",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60dd9adfc0fb7b68e7206d0d"
+  },
+  "source_name": "Science Daily",
+  "source_home_link": "https://www.sciencedaily.com",
+  "source_id": "x72v5uRl2VRBH_v-TdE9Bg_science daily",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "science",
+  "links": [
+    {
+      "link": "https://www.sciencedaily.com/rss/top/science.xml",
+      "assumed_tags": "science",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.sciencedaily.com/rss/top/health.xml",
+      "assumed_tags": "heatlh__fitness",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.sciencedaily.com/rss/top/technology.xml",
+      "assumed_tags": "technology__computing science",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.sciencedaily.com/rss/top/environment.xml",
+      "assumed_tags": "environment__nature__disaster__pollution__waste",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.sciencedaily.com/rss/top/society.xml",
+      "assumed_tags": "society",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddb015c0fb7b68e7206d0f"
+  },
+  "source_name": "Dan Flying Solo",
+  "source_home_link": "https://www.danflyingsolo.com",
+  "source_id": "LVAf8pMHRMo9ZSO9nBFLsw_dan flying solo",
+  "formatter": "html_collection_format",
+  "assumed_tags": "travel__adventure",
+  "links": [
+    {
+      "link": "https://www.danflyingsolo.com/travel-blog/",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": false,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddb95cc0fb7b68e7206d11"
+  },
+  "source_name": "Lili's Travel Plans",
+  "source_home_link": "https://www.lilistravelplans.com",
+  "source_id": "oWFPyIH9ifPKapqe9mf9yg_lili's travel plans",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "travel__adventure",
+  "links": [
+    {
+      "link": "https://www.lilistravelplans.com/feed/",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddbb9fc0fb7b68e7206d13"
+  },
+  "source_name": "Life Is A Movie",
+  "source_home_link": "https://mylifesamovie.com",
+  "source_id": "NRy528XFqeFgbQOVOCB-_Q_life is a movie",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival travel__adventure",
+  "links": [
+    {
+      "link": "https://mylifesamovie.com/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddc887c0fb7b68e7206d15"
+  },
+  "source_name": "Back Pack Banter",
+  "source_home_link": "https://www.backpackerbanter.com",
+  "source_id": "A9TA1J5_023zB4eoEpA04w_back pack banter",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival travel__adventure",
+  "links": [
+    {
+      "link": "https://www.backpackerbanter.com/blog/feed",
+      "assumed_tags": "life__lifestyle__culture__festival travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddcb20c0fb7b68e7206d17"
+  },
+  "source_name": "Wandering Earl",
+  "source_home_link": "https://www.wanderingearl.com",
+  "source_id": "t9oShBY_KW_Epw-8ymUl-Q_wandering earl",
+  "formatter": null,
+  "assumed_tags": "life__lifestyle__culture__festival people__racism travel__adventure",
+  "links": [
+    {
+      "link": "https://feeds.feedburner.com/WanderingEarl?format=xml",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": false,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddd04ac0fb7b68e7206d19"
+  },
+  "source_name": "WTF Fact",
+  "source_home_link": "https://wtffunfact.com",
+  "source_id": "83_Q9YIXIeMgPVrRayHnTQ_wtf fact",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "weird__facts__miscellaneous",
+  "links": [
+    {
+      "link": "https://wtffunfact.com/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "image",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddd1b2c0fb7b68e7206d1b"
+  },
+  "source_name": "All That Is Interesting",
+  "source_home_link": "https://allthatsinteresting.com",
+  "source_id": "4DYlmo9pbeOtLGNtupIzMw_all that is interesting",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "history__philosophy weird__facts__miscellaneous",
+  "links": [
+    {
+      "link": "https://allthatsinteresting.com/tag/history/feed",
+      "assumed_tags": "history__philosophy weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://allthatsinteresting.com/tag/science/feed",
+      "assumed_tags": "science weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddd3abc0fb7b68e7206d1d"
+  },
+  "source_name": "Oddee",
+  "source_home_link": "https://www.oddee.com",
+  "source_id": "J2hIrEYKC4jdgnDkccPh7A_oddee",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "weird__facts__miscellaneous",
+  "links": [
+    {
+      "link": "https://www.oddee.com/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.oddee.com/lists/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60ddd57bc0fb7b68e7206d1f"
+  },
+  "source_name": "Kick Ass Facts",
+  "source_home_link": "https://www.kickassfacts.com",
+  "source_id": "RbCTKkEzNHtlh7FpoeC5fg_kick ass facts",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "weird__facts__miscellaneous",
+  "links": [
+    {
+      "link": "https://www.kickassfacts.com/feed/",
+      "assumed_tags": "weird__facts__miscellaneous",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60dec8ccecd3fda644afc8a4"
+  },
+  "source_name": "Google News",
+  "source_home_link": "https://news.google.com",
+  "source_id": "4ocjK1xvQ_hm11C3H6qSeQ_google news",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "celebrity__gossip",
+  "links": [
+    {
+      "link": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=celebs+bollywood",
+      "assumed_tags": "celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=celebs+hollywood",
+      "assumed_tags": "celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": false,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "GL"
+  ]
+},{
+  "_id": {
+    "$oid": "60e3e874dadffc6e675e68b7"
+  },
+  "source_name": "Cinemablend",
+  "source_home_link": "https://www.cinemablend.com",
+  "source_id": "ovir6lAVy_JccD9WEU0zRQ_cinemablend",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "films__tv__series",
+  "links": [
+    {
+      "link": "https://www.cinemablend.com/rss/topic/news/movies",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.cinemablend.com/rss/topic/reviews/movies",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e3eebbdadffc6e675e68b9"
+  },
+  "source_name": "Screenrant",
+  "source_home_link": "https://screenrant.com",
+  "source_id": "lEXyPPtVhKDT8kWqe2d9bQ_screenrant",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "films__tv__series",
+  "links": [
+    {
+      "link": "https://screenrant.com/feed/",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4032fdadffc6e675e68bb"
+  },
+  "source_name": "Screen Crush",
+  "source_home_link": "https://screencrush.com",
+  "source_id": "PVK69mV2-Zqi-8LqZDUyew_screen crush",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "films__tv__series",
+  "links": [
+    {
+      "link": "https://screencrush.com/category/movie-news/feed",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://screencrush.com/category/tv-news/feed",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://screencrush.com/category/movie-reviews/feed",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://screencrush.com/category/trailers/feed",
+      "assumed_tags": "films__tv__series",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://screencrush.com/category/original-features/feed",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4082fdadffc6e675e68bd"
+  },
+  "source_name": "Movie Web",
+  "source_home_link": "https://movieweb.com",
+  "source_id": "HOB2mbvlqsDVkRTHbb0oqg_movie web",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "films__tv__series celebrity__gossip",
+  "links": [
+    {
+      "link": "https://movieweb.com/rss/movie-news/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://movieweb.com/rss/tv-news/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://movieweb.com/rss/casting-news/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://movieweb.com/rss/celebrity-interviews/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://movieweb.com/rss/movie-reviews/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://movieweb.com/rss/movie-trailers/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4116edadffc6e675e68c1"
+  },
+  "source_name": "Bollywood Life",
+  "source_home_link": "https://www.bollywoodlife.com",
+  "source_id": "21_nf_Y64_LKBe_LQ6q4HQ_bollywood life",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "films__tv__series celebrity__gossip",
+  "links": [
+    {
+      "link": "https://www.bollywoodlife.com/tv/feed/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bollywoodlife.com/news-gossip/feed/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bollywoodlife.com/hollywood/feed/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bollywoodlife.com/interviews/feed",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bollywoodlife.com/reviews/feed/",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e41584dadffc6e675e68c3"
+  },
+  "source_name": "Hindustan Times",
+  "source_home_link": "https://www.hindustantimes.com",
+  "source_id": "LaacxY4LkjKvz3NIE7_Exw_hindustan times",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "films__tv__series celebrity__gossip",
+  "links": [
+    {
+      "link": "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+      "assumed_tags": "films__tv__series celebrity__gossip",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e43a2fdadffc6e675e68c5"
+  },
+  "source_name": "Malika Basu",
+  "source_home_link": "https://mallikabasu.com",
+  "source_id": "zkgkp8JintkcOHRU2IGs5Q_malika basu",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "food__cooking",
+  "links": [
+    {
+      "link": "https://mallikabasu.com/category/vegetarian/feed/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://mallikabasu.com/category/drinks/feed/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://mallikabasu.com/category/meat/feed/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e43fd8dadffc6e675e68c9"
+  },
+  "source_name": "Veg Recipes Of India",
+  "source_home_link": "https://www.vegrecipesofindia.com",
+  "source_id": "im18vAPC60iBGKmVvKEgww_veg recipes of india",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "food__cooking",
+  "links": [
+    {
+      "link": "https://www.vegrecipesofindia.com/feed/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e44fa1dadffc6e675e68cb"
+  },
+  "source_name": "Belly Over Mind",
+  "source_home_link": "http://bellyovermind.com",
+  "source_id": "Q2lcx5kDPyo60iIGkmKrnw_belly over mind",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "food__cooking",
+  "links": [
+    {
+      "link": "http://bellyovermind.com/category/the-recipes/feed/",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e46ea8dadffc6e675e68cd"
+  },
+  "source_name": "Divine Taste",
+  "source_home_link": "https://www.divinetaste.com",
+  "source_id": "uKrs0ubV09_orVZSdmMTUQ_divine taste",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "healthy_eating food__cooking",
+  "links": [
+    {
+      "link": "https://www.divinetaste.com/category/recipes/feed/",
+      "assumed_tags": "healthy_eating food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": false,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e47091dadffc6e675e68cf"
+  },
+  "source_name": "Padhus Kitchen",
+  "source_home_link": "https://www.padhuskitchen.com",
+  "source_id": "rtnB87S5cvA_IQTWxO7QrA_padhus kitchen",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "healthy_eating food__cooking",
+  "links": [
+    {
+      "link": "https://www.padhuskitchen.com/feed",
+      "assumed_tags": "healthy_eating food__cooking",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ]
+},{
+  "_id": {
+    "$oid": "60e47933dadffc6e675e68d1"
+  },
+  "source_name": "Allergic Living",
+  "source_home_link": "https://www.allergicliving.com",
+  "source_id": "kjP1Qt1SVfm3RNlhNlVFEw_allergic living",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "healthy_eating",
+  "links": [
+    {
+      "link": "https://www.allergicliving.com/category/food-allergy/feed/",
+      "assumed_tags": "healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4865fdadffc6e675e68d3"
+  },
+  "source_name": "Snack Safely",
+  "source_home_link": "https://snacksafely.com",
+  "source_id": "RI0PCNh5CjXpWgag5ncEdw_snack safely",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "healthy_eating",
+  "links": [
+    {
+      "link": "https://snacksafely.com/feed/",
+      "assumed_tags": "healthy_eating",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4a3a7dadffc6e675e68d5"
+  },
+  "source_name": "Mens Journal",
+  "source_home_link": "https://www.mensjournal.com",
+  "source_id": "8NquIa3fKXzpfBUXJhc1tQ_mens journal",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "exercise__mental_health people__racism health",
+  "links": [
+    {
+      "link": "https://www.mensjournal.com/health-fitness/rss/",
+      "assumed_tags": "exercise__mental_health people__racism health",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/travel/rss",
+      "assumed_tags": "people__racism travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/style/rss/",
+      "assumed_tags": "people__racism mens_fashion fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/life-advice/rss",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/drive/rss",
+      "assumed_tags": "cars__bike__electric_vehicles",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/grooming/rss",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/adventure/rss",
+      "assumed_tags": "travel__adventure",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/sports/rss",
+      "assumed_tags": "sports__events",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mensjournal.com/dads/rss",
+      "assumed_tags": "people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4aa10dadffc6e675e68d7"
+  },
+  "source_name": "Good Men Project",
+  "source_home_link": "https://goodmenproject.com",
+  "source_id": "3qJlKqU3Ap26PHWtonUQEA_good men project",
+  "formatter": null,
+  "assumed_tags": "relationship sex",
+  "links": [
+    {
+      "link": "https://goodmenproject.com/category/sex-relationships/feed/",
+      "assumed_tags": "relationship sex",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://goodmenproject.com/category/families/feed/",
+      "assumed_tags": "people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://goodmenproject.com/category/guy-talk/feed/",
+      "assumed_tags": "life__lifestyle__culture__festival career__job",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4af3fdadffc6e675e68d9"
+  },
+  "source_name": "Primer Magazine",
+  "source_home_link": "https://www.primermagazine.com",
+  "source_id": "uCy97UwFNUZ21jmW9zUHLg_primer magazine",
+  "formatter": "xml_collection_format",
+  "assumed_tags": "life__lifestyle__culture__festival people__racism exercise__mental_health",
+  "links": [
+    {
+      "link": "https://www.primermagazine.com/category/live/feed",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism exercise__mental_health",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.primermagazine.com/category/earn/feed",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism investing__personal_finance career__job",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.primermagazine.com/category/invest/rss",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism investing__personal_finance career__job",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.primermagazine.com/category/earn/feed",
+      "assumed_tags": "work investing__personal_finance life__lifestyle__culture__festival fashion career__job people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.primermagazine.com/category/love/feed",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism relationship",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "60e4b26cdadffc6e675e68db"
+  },
+  "source_name": "Man Telligence",
+  "source_home_link": "https://www.mantelligence.com",
+  "source_id": "FnuCgWq5UV_R2Wb1dKsv4Q_man telligence",
+  "formatter": "xml_collection_format",
+  "assumed_tags": " life__lifestyle__culture__festival people__racism relationship",
+  "links": [
+    {
+      "link": "https://www.mantelligence.com/articles/feed/",
+      "assumed_tags": " life__lifestyle__culture__festival people__racism relationship",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.mantelligence.com/our-most-popular-posts/feed/",
+      "assumed_tags": " life__lifestyle__culture__festival people__racism relationship",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "compulsory_tags": [
+    ""
+  ],
+  "is_collection": true,
+  "is_rss": true,
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+},{
+  "_id": {
+    "$oid": "611614e47e93e8f944786cfe"
+  },
+  "source_name": "The Fashion Spot",
+  "source_id": "eQ2_spG-mypupT2kTVYrug_the fashion spot",
+  "source_home_link": "https://www.thefashionspot.com",
+  "assumed_tags": "womens_fashion",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.thefashionspot.com/style-trends/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefashionspot.com/beauty/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefashionspot.com/celebrity-fashion/feed/",
+      "assumed_tags": "celebirity_fashion__contest",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefashionspot.com/runway-news/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "6116530b512c30c461d87ec2"
+  },
+  "source_name": "The Curvy Fashionista",
+  "source_id": "LXlPZiH6xXFN5D20Ymdmzw_the curvy fashionista",
+  "source_home_link": "https://thecurvyfashionista.com",
+  "assumed_tags": "womens_fashion people__racism life__lifestyle__culture__festival",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://thecurvyfashionista.com/category/plus-size-features/feed/",
+      "assumed_tags": "womens_fashion people__racism life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://thecurvyfashionista.com/category/plus-size-fashion-news/feed/",
+      "assumed_tags": "womens_fashion people__racism life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://thecurvyfashionista.com/category/plus-size-news/feed/",
+      "assumed_tags": "womens_fashion people__racism life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://thecurvyfashionista.com/category/plus-size-hair-beauty/feed/",
+      "assumed_tags": "womens_fashion people__racism life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://thecurvyfashionista.com/category/lifestylecelebrity/feed/",
+      "assumed_tags": "womens_fashion people__racism life__lifestyle__culture__festival celebirity_fashion__contest",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "61165760512c30c461d87ec4"
+  },
+  "source_name": "A Well Styled Life",
+  "source_id": "ZbiXspBulvWtTHX95IevIg_a well styled lifestyle",
+  "source_home_link": "https://awellstyledlife.com",
+  "assumed_tags": "womens_fashion life__lifestyle__culture__festival",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://awellstyledlife.com/category/modern-fashion/style-tips/feed/",
+      "assumed_tags": "womens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://awellstyledlife.com/category/modern-fashion/feed/",
+      "assumed_tags": "womens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://awellstyledlife.com/category/health-and-wellness/feed/",
+      "assumed_tags": "healthy_eating health life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "61166138512c30c461d87ec8"
+  },
+  "source_name": "Fabulous After 40",
+  "source_id": "vpKAFY0mBpj1IkR88TzUjw_fabulous after 40",
+  "source_home_link": "https://www.fabulousafter40.com",
+  "assumed_tags": "healthy_eating health life__lifestyle__culture__festival",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.fabulousafter40.com/feed/",
+      "assumed_tags": "healthy_eating health life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.fabulousafter40.com/category/find-your-style/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.fabulousafter40.com/category/find-your-style/style-personality/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.fabulousafter40.com/category/find-your-style/accessories/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.fabulousafter40.com/category/beauty/feed/",
+      "assumed_tags": "womens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "61168025512c30c461d87eca"
+  },
+  "source_name": "GQ India",
+  "source_id": "wpYNcxiaFuWA0n2fTuukYw_gq india",
+  "source_home_link": "https://www.gqindia.com",
+  "assumed_tags": "celebirity_fashion__contest",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": false,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.gqindia.com/look-good",
+      "assumed_tags": "celebirity_fashion__contest",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/grooming",
+      "assumed_tags": "celebirity_fashion__contest mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/look-good/fitness",
+      "assumed_tags": "celebirity_fashion__contest mens_fashion exercise__mental_health",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/look-good/watches/",
+      "assumed_tags": "celebirity_fashion__contest mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/live-well",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/live-well/food",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/live-well/drink",
+      "assumed_tags": "food__cooking",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/live-well/nightlife",
+      "assumed_tags": "life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/live-well/travel",
+      "assumed_tags": "travel__adventure life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/get-smart/gadgets",
+      "assumed_tags": "consumer_electronics android iphone innovation__invention",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/get-smart/career",
+      "assumed_tags": "career__job business_operations__reports startups",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/get-smart/games",
+      "assumed_tags": "video_games__games",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/entertainment",
+      "assumed_tags": "celebrity__gossips",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/entertainment/music",
+      "assumed_tags": "music celebrity__gossips",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/entertainment/season-of-sport",
+      "assumed_tags": "sports__events celebrity__gossips",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.gqindia.com/men-year",
+      "assumed_tags": "celebrity__gossips",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ],
+  "formatter": "html_collection_format"
+},{
+  "_id": {
+    "$oid": "611914f1512c30c461d87ece"
+  },
+  "source_name": "Men Style Fashion",
+  "source_id": "RyzwHXQL9r9IHigKdkbMkQ_men style fashion",
+  "source_home_link": "https://www.menstylefashion.com",
+  "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.menstylefashion.com/topics/fashion/feed/",
+      "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.menstylefashion.com/topics/style/feed/",
+      "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.menstylefashion.com/topics/beauty/feed/",
+      "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.menstylefashion.com/topics/cars/feed/",
+      "assumed_tags": "cars__bike__electric vehicles life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.menstylefashion.com/topics/life/feed/",
+      "assumed_tags": "relationship sex food__cooking people__racism life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "61191c90512c30c461d87ed0"
+  },
+  "source_name": "Valet Mag",
+  "source_id": "zhE6DTh7w3yOiquZHAhJVQ_valet mag",
+  "source_home_link": "https://www.valetmag.com",
+  "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": false,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.valetmag.com/style/",
+      "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.valetmag.com/living/",
+      "assumed_tags": "life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.valetmag.com/health-fitness/",
+      "assumed_tags": "exercise__mental_health disease__disorders",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.valetmag.com/grooming/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "html_collection_format"
+},{
+  "_id": {
+    "$oid": "61192484512c30c461d87ed2"
+  },
+  "source_name": "Vogue India",
+  "source_id": "meiNY_BeHP5ZmKx3N2t64Q_vogue india",
+  "source_home_link": "https://www.vogue.in",
+  "assumed_tags": "womens_fashion celebirity_fashion__contest",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": false,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.vogue.in/fashion",
+      "assumed_tags": "womens_fashion celebirity_fashion__contest",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.vogue.in/beauty",
+      "assumed_tags": "womens_fashion celebirity_fashion__contest",
+      "compulsory_tags": null,
+      "formatter": "html_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ],
+  "formatter": "html_collection_format"
+},{
+  "_id": {
+    "$oid": "61193124512c30c461d87ed4"
+  },
+  "source_name": "The Fashionisto",
+  "source_id": "FCY-gM6zCHgeWnPnwblHIQ_the fashionisto",
+  "source_home_link": "https://www.thefashionisto.com",
+  "assumed_tags": "mens_fashion",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.thefashionisto.com/feed/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefashionisto.com/category/mens-online-shopping/feed/",
+      "assumed_tags": "mens_fashion stores__products__coupons",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefashionisto.com/category/fashion/feed/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.thefashionisto.com/category/mens-style/feed/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "611abb96512c30c461d87ed6"
+  },
+  "source_name": "Ape To Gentleman",
+  "source_id": "01y_w3KCHKUlaDlKwi9TFA_ape to gentleman",
+  "source_home_link": "https://www.apetogentleman.com",
+  "assumed_tags": "mens_fashion",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.apetogentleman.com/category/fashion/feed/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.apetogentleman.com/category/grooming/feed/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.apetogentleman.com/category/mens-hairstyles/feed/",
+      "assumed_tags": "mens_fashion",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.apetogentleman.com/category/lifestyle/feed/",
+      "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.apetogentleman.com/category/watches/feed/",
+      "assumed_tags": "mens_fashion life__lifestyle__culture__festival",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "611d5df2370daa951539a078"
+  },
+  "source_name": "Bonobology",
+  "source_id": "AyplxL2K5-yw0xkmZbwVhQ_bonobology",
+  "source_home_link": "https://www.bonobology.com",
+  "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.bonobology.com/category/affair-cheating/emotional-stress/feed/",
+      "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/affair-cheating/extra-marital-affairs/feed/",
+      "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/affair-cheating/infidelity/feed/",
+      "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/affair-cheating/office-affairs/feed/",
+      "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism work",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/breakups-and-scars/break-up-and-loss/feed/",
+      "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/breakups-and-scars/divorced/feed/",
+      "assumed_tags": "relationship sex life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/breakups-and-scars/suffering-and-healing/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism exercise__mental_health",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/single-dating/dating-experience/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/single-dating/friendship/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/single-dating/love-and-romance/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/single-dating/one-sided-love/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/single-dating/online-dating/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/single-dating/single-life/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/married-life/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/relationship-experts/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/sex-passion/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism sex",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://www.bonobology.com/category/fun-and-masti/feed/",
+      "assumed_tags": "relationship life__lifestyle__culture__festival people__racism sex",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "IN"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "611ea17150dba5b1bb01eac0"
+  },
+  "source_name": "Universe Today",
+  "source_id": "vs0HJ4OnxN1EeoNLSgnJCA_universe today",
+  "source_home_link": "https://www.universetoday.com",
+  "assumed_tags": "space_technology__astronomy",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://www.universetoday.com/feed/",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "611ea34850dba5b1bb01eac2"
+  },
+  "source_name": "Daily Galaxy",
+  "source_id": "ceja3Uc6j7GvIsnHHqXfVQ_daily galaxy",
+  "source_home_link": "https://dailygalaxy.com",
+  "assumed_tags": "space_technology__astronomy",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [
+    {
+      "link": "https://dailygalaxy.com/category/space/feed/",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://dailygalaxy.com/category/astronomy/feed/",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://dailygalaxy.com/category/extraterrestrial-life/feed/",
+      "assumed_tags": "space_technology__astronomy",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://dailygalaxy.com/category/science/feed/",
+      "assumed_tags": "space_technology__astronomy physics",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://dailygalaxy.com/category/physics/feed/",
+      "assumed_tags": "space_technology__astronomy physics",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://dailygalaxy.com/category/climate-change/feed/",
+      "assumed_tags": "space_technology__astronomy environment__nature__disaster__pollution__waste",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    },
+    {
+      "link": "https://dailygalaxy.com/category/evolution/feed/",
+      "assumed_tags": "space_technology__astronomy biology",
+      "compulsory_tags": null,
+      "formatter": "xml_collection_format",
+      "content_type": "article",
+      "is_multiple": false
+    }
+  ],
+  "watermarks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ],
+  "formatter": "xml_collection_format"
+},{
+  "_id": {
+    "$oid": "611eabe050dba5b1bb01eac4"
+  },
+  "source_name": "Sky And Telescope",
+  "source_id": "rpvpWJncPig5AZFTRrry_Q_sky and telescope",
+  "source_home_link": "https://skyandtelescope.org",
+  "assumed_tags": "space_technology__astronomy",
+  "compulsory_tags": [
+    ""
+  ],
+  "is_rss": true,
+  "is_collection": true,
+  "links": [],
+  "watermarks": [
+    ""
+  ],
+  "datetime_format": "",
+  "is_third_party": false,
+  "source_locations": [
+    "US"
+  ]
+}]
